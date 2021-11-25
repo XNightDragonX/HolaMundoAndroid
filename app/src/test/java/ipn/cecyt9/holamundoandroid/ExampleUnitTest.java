@@ -1,4 +1,4 @@
-package com.emanuel.perez.solano;
+package ipn.cecyt9.holamundoandroid;
 
 import org.junit.Test;
 

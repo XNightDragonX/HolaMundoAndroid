@@ -1,4 +1,4 @@
-package com.emanuel.perez.solano;
+package ipn.cecyt9.holamundoandroid;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.emanuel.perez.solano", appContext.getPackageName());
+        assertEquals("ipn.cecyt9.holamundoandroid", appContext.getPackageName());
     }
 }
